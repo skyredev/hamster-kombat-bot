@@ -1,0 +1,14 @@
+{
+  "name": "hamsterkombat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^1.7.2"
+  }
+}
